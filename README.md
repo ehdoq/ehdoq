@@ -1,7 +1,7 @@
 <div align="center">
     <h3>Hi there 👋</h3>
     <div id="header">
-        <img src="https://media1.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+        <img src="https://media1.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
     </div>
     <div id="badges">
         <a href="https://www.linkedin.com/in/mustafa-gedik/">

@@ -15,8 +15,12 @@
     </div>
 </div>
 
+<hr/>
+
 ### 👨‍💻 Hakkımda:
 Merhabalar, yazılım alanına ilgim 15 yaşında başladı ve yıllardır yazılım alanında tutkuyla ilerliyorum.
+
+<hr/>
 
 ### 🛠️Kullandığım teknolojiler:
 <div>
@@ -41,7 +45,9 @@ Merhabalar, yazılım alanına ilgim 15 yaşında başladı ve yıllardır yazı
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 </div>
 
-### 🛠️Öğrenmeye devam ettiğim diller ve programlar:
+<hr/>
+
+### 🛠️Öğrenmekte olduğum teknolojiler:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon" alt="Amazon" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
@@ -56,6 +62,17 @@ Merhabalar, yazılım alanına ilgim 15 yaşında başladı ve yıllardır yazı
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/> 
 </div>
+
+<hr/>
+
+### 🔥 İstatistiklerim:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ehdoq&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdoq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdoq&show_icons=true&theme=radical)
+

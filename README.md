@@ -24,6 +24,7 @@ Merhabalar, yazılım alanına ilgim 15 yaşında başladı ve yıllardır yazı
 
 ### 🛠️Kullandığım teknolojiler:
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotnetCore" alt="DotnetCore" width="40" height="40"/>
@@ -42,8 +43,6 @@ Merhabalar, yazılım alanına ilgim 15 yaşında başladı ve yıllardır yazı
 
 ### 🛠️Öğrenmekte olduğum teknolojiler:
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon" alt="Amazon" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
